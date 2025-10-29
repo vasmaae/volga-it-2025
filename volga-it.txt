@@ -1,4 +1,4 @@
-Задание 1: auth_system vit25{Buff3r_0v3rfl0w_1s_fun!s}
+Задание 1: auth_system vit25{Buff3r_0v3rfl0w_1s_fun!}
 Задание 2: bar vit25{L’Archivio_+39041710253}
 Задание 3: DDD vit25{3d_d35I6n3r}
 Задание 4: greka vit25{51p_7r4ff1c_15_4w350m3}
